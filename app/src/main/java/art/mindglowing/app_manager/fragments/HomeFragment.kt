@@ -237,7 +237,7 @@ class HomeFragment : Fragment() {
                     }
                     isInstalled -> {
                         Log.d("ButtonLogic", "App ${app.name} is installed and no updates are available.")
-                        "No updates available"
+                        "Installed"
                     }
                     else -> {
                         Log.d("ButtonLogic", "App ${app.name} is not installed.")
