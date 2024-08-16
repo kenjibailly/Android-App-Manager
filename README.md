@@ -1,3 +1,7 @@
+# What is this?
+
+This is an android app manager. You can install and update apps from within the app, using a JSON link input. Link must be hosted somewhere on a website. You can then add the link to the settings, multiple links can be added.
+
 # How does it work?
 
 Add a remote json link in the settings with the following structure:
