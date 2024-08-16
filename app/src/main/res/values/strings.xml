@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">App Manager</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="burger_menu">Burger Menu</string>
+    <string name="enable">Enable</string>
+    <string name="please_enable_the_install_unknown_apps_permission_in_your_settings">Please enable the \'Install unknown apps\' permission in your settings.</string>
+    <string name="enable_permissions">Enable Permissions</string>
+    <string name="refresh">Refresh</string>
+    <string name="add_link">Add Link</string>
+    <string name="enter_a_link">Enter a link</string>
+    <string name="home">Home</string>
+    <string name="settings">Settings</string>
+    <string name="add_apps_link">Add Apps Link</string>
+    <string name="mind_glowing_apps">Mind Glowing - App Manager</string>
+</resources>
